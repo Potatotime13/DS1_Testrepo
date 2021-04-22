@@ -4,7 +4,7 @@ import streamlit as st
 import numpy as np
 import pandas as pd
 
-st.title('saas')
+st.title('Lucas Data Science Projekt')
 st.write('ich probier mal rum')
 data = pd.DataFrame({'einsZeile': [1, 2, 3, 4, 5], 'zweiZeile': [34, 12, 76, 17, 10]})
 st.write(data)
